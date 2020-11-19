@@ -1,21 +1,21 @@
 {
-  "name": "Lighthouse Gauge",
-  "organization": "James Buckley",
-  "description": "Lighthouse Gauge",
-  "logoUrl": "gs://jjbuckley-datastudio/lighthouse-gauge/cover.png",
-  "packageUrl": "https://github.com/JibbyJames/data-studio-lighthouse-gauge",
-  "supportUrl": "https://github.com/JibbyJames/data-studio-lighthouse-gauge",
+  "name": "Progress Target Chart",
+  "organization": "JMJ Associates",
+  "description": "Progress Target Chart",
+  "logoUrl": "gs://VoodooChild65/data-studio-lighthouse-gauge/cover.png",
+  "packageUrl": "https://github.com/VoodooChild65/data-studio-lighthouse-gauge",
+  "supportUrl": "https://github.com/VoodooChild65/data-studio-lighthouse-gauge",
   "devMode": false,
   "components": [{
     "id": "lhGauge",
-    "name": "Lighthouse Gauge",
-    "description": "Gauge in style of Lighthouse reports created with JS and CSS",
-    "iconUrl": "https://storage.googleapis.com/jjbuckley-datastudio/lighthouse-gauge/icon.png",
+    "name": "Progress Target Chart",
+    "description": "Gauge in style of apple watch created with JS and CSS",
+    "iconUrl": "gs://VoodooChild65/data-studio-lighthouse-gauge/icon.png",
     "resource": {
-      "config": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.json",
-      "js": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.js",
-      "css": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.css",
-      "content": "gs://jjbuckley-datastudio/lighthouse-gauge/lhGauge.html" 
+      "config": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.json",
+      "js": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.js",
+      "css": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.css",
+      "content": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.html" 
     }
   }]
 }
