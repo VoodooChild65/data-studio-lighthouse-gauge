@@ -3,7 +3,7 @@
   "name": "Progress Target Chart",
   "organization": "JMJ Associates",
   "description": "Progress Target Chart",
-  "logoUrl": "gs://VoodooChild65/data-studio-lighthouse-gauge/cover.png",
+  "logoUrl": "gs://jmj-target-guage/Test-one/cover.png",
   "packageUrl": "https://github.com/VoodooChild65/data-studio-lighthouse-gauge",
   "supportUrl": "https://github.com/VoodooChild65/data-studio-lighthouse-gauge",
   "devMode": false,
@@ -11,12 +11,12 @@
     "id": "lhGauge",
     "name": "Progress Target Chart",
     "description": "Gauge in style of apple watch created with JS and CSS",
-    "iconUrl": "gs://VoodooChild65/data-studio-lighthouse-gauge/icon.png",
+    "iconUrl": "https://storage.googleapis.com/jmj-target-gauge/Test-one/icon.png",
     "resource": {
-      "config": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.json",
-      "js": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.js",
-      "css": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.css",
-      "content": "gs://VoodooChild65/data-studio-lighthouse-gauge/lhGauge.html" 
+      "config": "gs://jmj-target-guage/Test-one/lhGauge.json",
+      "js": "gs://jmj-target-guage/Test-one/lhGauge.js",
+      "css": "gs://jmj-target-guage/Test-one/lhGauge.css",
+      "content": "gs://jmj-target-guage/Test-one/lhGauge.html" 
     }
   }]
 }
